@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first-year MPhil student at UNSW Sydney, embarking on my journey into the realm of research. My primary focus at this stage is on two intriguing areas: Graph Neural Networks (GNNs) and Neural Ordinary Differential Equations (NODEs). Prior to delving into these topics, I dedicated my efforts to the intricate task of centrality calculations within multilayered networks.
 
-I wish to express my heartfelt appreciation to my esteemed supervisors, [Dr. Jiaojiao Jiang]((https://www.unsw.edu.au/staff/jiaojiao-jiang)) and [Prof. Junbin Gao](https://www.sydney.edu.au/business/about/our-people/academic-staff/junbin-gao.html), for their invaluable guidance and unwavering support.
+I wish to express my heartfelt appreciation to my esteemed supervisors, [Dr. Jiaojiao Jiang](https://www.unsw.edu.au/staff/jiaojiao-jiang) and [Prof. Junbin Gao](https://www.sydney.edu.au/business/about/our-people/academic-staff/junbin-gao.html), for their invaluable guidance and unwavering support.
 
 ## Education
 
