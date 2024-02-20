@@ -32,7 +32,7 @@ I wish to express my heartfelt appreciation to my esteemed supervisors, [Dr. Jia
 
 ## Publications
 
-* Ma, Boqian, **Hao Ren**, and Jiaojiao Jiang. ‘Influence Robustness of Nodes in Multiplex Networks against Attacks’. *arXiv E-Prints*, September 2023, arXiv:2309.07617. <https://doi.org/10.48550/arXiv.2309.07617>. (Accepted by CNA 2023)
+* Ma, B., **Ren, H.**, Jiang, J. (2024). Influence Robustness of Nodes in Multiplex Networks Against Attacks. In: Cherifi, H., Rocha, L.M., Cherifi, C., Donduran, M. (eds) *Complex Networks & Their Applications XII*. COMPLEX NETWORKS 2023. Studies in Computational Intelligence, vol 1143. Springer, Cham. <https://doi.org/10.1007/978-3-031-53472-0_6>
 
 ## Teaching
 
