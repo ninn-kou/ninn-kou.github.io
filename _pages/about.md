@@ -27,6 +27,7 @@ I wish to express my heartfelt appreciation to my esteemed supervisors, [Dr. Jia
 
 ## Work experience
 
+* Casual Academic, University of New South Wales, Jan. 2024 - Present
 * Program Tester Intern in DCC SmartCity Subsidiary, Dhc Software Co., Ltd, Dec. 2019 - Jan. 2020
 * Private Tutor for High School Students, in Mathematics and Physics, Oct. 2017 - Mar. 2018
 
@@ -36,4 +37,6 @@ I wish to express my heartfelt appreciation to my esteemed supervisors, [Dr. Jia
 
 ## Teaching
 
-* COMP2521 Data Structures and Algorithms, Lab Assistant, School of Computer Science and Engineering, UNSW, Summer Term, 2024
+* **COMP2521 Data Structures and Algorithms**, *School of Computer Science and Engineering, UNSW*
+  * Summer Term, 2024： Lab Assistant
+  * Term 1, 2024: Help Sessions Tutor
