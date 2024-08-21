@@ -33,10 +33,16 @@ I wish to express my heartfelt appreciation to my esteemed supervisors, [Dr. Jia
 
 ## Publications
 
+* Ren, Hao, and Jiaojiao Jiang. "LayerPlexRank: Exploring Node Centrality and Layer Influence through Algebraic Connectivity in Multiplex Networks." *arXiv preprint arXiv:2405.05576* (2024).
 * Ma, B., **Ren, H.**, Jiang, J. (2024). Influence Robustness of Nodes in Multiplex Networks Against Attacks. In: Cherifi, H., Rocha, L.M., Cherifi, C., Donduran, M. (eds) *Complex Networks & Their Applications XII*. COMPLEX NETWORKS 2023. Studies in Computational Intelligence, vol 1143. Springer, Cham. <https://doi.org/10.1007/978-3-031-53472-0_6>
 
 ## Teaching
 
+* **COMP9020 Foundations of Computer Science**, *School of Computer Science and Engineering, UNSW*
+  * *Course Admin*: Term 3, 2024
+  * *Substitute Lecturer*: Term 3, 2024 (Pending)
+  * *Tutor*: Term 3, 2024 
+
 * **COMP2521 Data Structures and Algorithms**, *School of Computer Science and Engineering, UNSW*
-  * Summer Term, 2024： Lab Assistant
-  * Term 1, 2024: Help Sessions Tutor
+  * *Lab Assistant*: Summer Term, 2024
+  * *Help Sessions Tutor*: Term 1, 2024
