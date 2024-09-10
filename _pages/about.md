@@ -40,7 +40,6 @@ I wish to express my heartfelt appreciation to my esteemed supervisors, [Dr. Jia
 
 * **COMP9020 Foundations of Computer Science**, *School of Computer Science and Engineering, UNSW*
   * *Course Admin*: Term 3, 2024
-  * *Substitute Lecturer*: Term 3, 2024 (Pending)
   * *Tutor*: Term 3, 2024 
 
 * **COMP2521 Data Structures and Algorithms**, *School of Computer Science and Engineering, UNSW*
